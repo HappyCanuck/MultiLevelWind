@@ -11,6 +11,8 @@ Copy MultiLevelWindv23.jar to your OpenRocket plugin directory (`~/.openrocket/P
 C:\Users\YourUserNameHere\AppData\Roaming\OpenRocket\Plugins` on Windows), then restart OpenRocket.
 You can add and configure it in the simulation edit dialog under Simulation options -> Add extension -> Flight -> MultiLevelWind
 
+![plugin](https://github.com/user-attachments/assets/0c09b86b-61b2-49f5-9098-282a094f2135)
+
 # Wind data sources
 In Canada, high-altitude wind data can be obtained from the NavCanada website for a limited set of airports: https://plan.navcanada.ca/wxrecall/ (use the closest available airport to your launch site).
 In the USA, consult https://aviationweather.gov/data/windtemp/ and again find the closest airport to your launch site.
