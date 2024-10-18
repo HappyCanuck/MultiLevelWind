@@ -1,0 +1,13 @@
+<project name="MultiLevelWindv23" basedir="." default="build">
+
+    <property name="src.dir" value="${basedir}/src"/>
+    <property name="build.dir" value="${basedir}/build"/>
+
+
+    <target name="build">
+        <mkdir dir="${build.dir}"/>
+        <javac debug="true" srcdir="${src.dir}" destdir="${build.dir}" classpath="OpenRocket.jar" includeantruntime="false" source="11.0.18" target="11.0.18"/>
+    	<jar destfile="MultiLevelWindv23.jar" basedir="${build.dir}"/>
+    </target>
+
+</project>
