@@ -17,3 +17,5 @@ You may need to convert the wind codes into readable format for the plugin.
 
 # Compiling 
 If you want to compile your own plugin version, all the *.java files are included in the repository.
+
+Many thanks to rocketsam2016 for creating and sharing the original work!
