@@ -7,7 +7,8 @@ It also changes the baseline altitude levels to match FAA/NavCanada high altitud
 Finally, it corrects a bug where wind directions could not be read by OpenRocket within the 0°-90° range.
 
 # Usage
-Copy MultiLevelWindv23.jar to your OpenRocket plugin directory (`~/.openrocket/Plugins/` on Linux, `~/Library/Application Support/OpenRocket/Plugins/` on Mac, `...\Application Data\OpenRocket\ThrustCurves\Plugins\` on Windows), then restart OpenRocket.
+Copy MultiLevelWindv23.jar to your OpenRocket plugin directory (`~/.openrocket/Plugins/` on Linux, `~/Library/Application Support/OpenRocket/Plugins/` on Mac, `
+C:\Users\YourUserNameHere\AppData\Roaming\OpenRocket\Plugins` on Windows), then restart OpenRocket.
 You can add and configure it in the simulation edit dialog under Simulation options -> Add extension -> Flight -> MultiLevelWind
 
 # Wind data sources
